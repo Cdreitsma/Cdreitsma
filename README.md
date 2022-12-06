@@ -1,4 +1,4 @@
-### Hi there, I'm Cameron Reitsma a first year student in the Hollnd College CIS program (Computer Information Systems)  
+### Hi there, I'm Cameron Reitsma a first year student in the Hollnd College CIS program (Computer Information Systems)<br />
 
 <!--
 **Cdreitsma/Cdreitsma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
