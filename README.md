@@ -1,4 +1,4 @@
-### Hi there, I'm Cameron Reitsma a student in the Hollnd College CIS program (Computer Information Systems)
+### Hi there, I'm Cameron Reitsma a software developer in Canada
 ------------------
 
 <!--
